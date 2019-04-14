@@ -3,6 +3,6 @@ A database management app including dictionaries, making change of multiple docu
 
 # To Install
 Locate the project directory and run
-''' npm build ''' // To install dependencies
-npm start  // To start the application
+``` npm build ``` // To install dependencies
+``` npm start ```  // To start the application
 
