@@ -20,17 +20,17 @@ Backend runs on Express, Mongo Database is managed by Mongoose and XMLHttpReques
 Example:
 
 Database
-iPhone XS - Jet Black - 350 CHF
-iPhone XS - Jet Black - 250 CHF
-iPhone XS - Space Blue - 300 CHF
+iPhone XS - Jet Black - 350 CHF<br/>
+iPhone XS - Jet Black - 250 CHF<br/>
+iPhone XS - Space Blue - 300 CHF<br/>
 
 Dictionary
-iPhone XS - Jet Black
-iPhone XS - Space Blue
+iPhone XS - Jet Black<br/>
+iPhone XS - Space Blue<br/>
 
 Changing Jet "Black" to "Black" will create the following result in the database section:
-iPhone XS - Black - 350 CHF
-iPhone XS - Black - 250 CHF
+iPhone XS - Black - 350 CHF<br/>
+iPhone XS - Black - 250 CHF<br/>
 iPhone XS - Space Blue - 300 CHF
 
 # Usage
