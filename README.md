@@ -19,12 +19,12 @@ Backend runs on Express, Mongo Database is managed by Mongoose and XMLHttpReques
 
 Example:
 
-Database
+<h3>Database</h3><br/>
 iPhone XS - Jet Black - 350 CHF<br/>
 iPhone XS - Jet Black - 250 CHF<br/>
 iPhone XS - Space Blue - 300 CHF<br/>
 
-Dictionary
+Dictionary<br/>
 iPhone XS - Jet Black<br/>
 iPhone XS - Space Blue<br/>
 
