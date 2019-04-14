@@ -28,7 +28,7 @@ iPhone XS - Space Blue - 300 CHF<br/>
 iPhone XS - Jet Black<br/>
 iPhone XS - Space Blue<br/>
 
-<h3>Changing Jet "Black" to "Black" will create the following result in the database section:</h3>
+<h3>Changing "Jet Black" to "Black" will create the following result in the database section:</h3>
 <br/>iPhone XS - Black - 350 CHF<br/>
 iPhone XS - Black - 250 CHF<br/>
 iPhone XS - Space Blue - 300 CHF
