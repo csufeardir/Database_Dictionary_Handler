@@ -1,0 +1,29 @@
+.productTable {
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 13px Arial, sans-serif;
+	width: 70%;
+}
+.productTable thead th {
+    background-color: #3BD2FF;
+    border: solid 1px #DDEEEE;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.productTable tbody td {
+	text-align: center;
+	background-color: #F9F9F9;
+    border: solid 1px #DDEEEE;
+    color: #333;
+}
+
+#table2 tbody td {
+	padding: 10px;
+}	
+
+#tableAdd tbody td{
+	padding: 10px;
+	background-color: #FFFFF2;
+}

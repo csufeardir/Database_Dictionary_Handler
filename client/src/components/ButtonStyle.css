@@ -1,0 +1,20 @@
+.button {
+  background-color: #3BD2FF; 
+  border: none;
+  color: white;
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+}
+
+#add {
+	width: 119px;
+}
+
+#add2 {
+	width: 119px;
+}
