@@ -15,7 +15,7 @@ const router = express.Router();
 //
 
 //Addressing Database
-const mongoDB = "mongodb+srv://atlasAdmin:atlasAdmin@cluster0-qr5y4.mongodb.net/test?retryWrites=true";
+const mongoDB = // INSERT YOUR KEY HERE //
 //
 
 //Establishing a DB Connection
