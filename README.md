@@ -6,7 +6,7 @@ Locate the project directory and run
 ``` npm build ``` to install dependencies and
 ``` npm start ```   to start the application
 
-Before starting the application, insert your database connection string into /server/app.js file, in place of // INSERT YOUR KEY HERE //
+<b>Before starting the application, insert your database connection string into /server/app.js file, in place of // INSERT YOUR KEY HERE //</b>
 
 If it doesn't work, please try to install concurrently by ``` npm install -g concurrently ``` or run ``` npm install ``` on server and client directories manually.
 
